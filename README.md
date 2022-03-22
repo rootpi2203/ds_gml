@@ -60,7 +60,7 @@ If you want to fetch new assignments from the master repo do as follows:
 
 ```
 # add original repo as remote upstream 
-$ git remote add upstream git@gitlab.fhnw.ch:ml/courses/gml/gml_minichallenges_hs2022.git 
+$ git remote add upstream git@gitlab.fhnw.ch:ml/courses/gml/gml_minichallenges_fs2022.git 
 
 # now whenever you want to merge the changes from the remote upstream repo, ie
 # the one you forked from, you can do:
