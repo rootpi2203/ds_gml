@@ -56,7 +56,7 @@ Your last commit before the deadline will be your submission.
 
 ## Fetching new assignments
 
-If you want to fetch new assignments from the master repo do as follows:
+If you want to fetch new assignments from the main repo do as follows:
 
 ```
 # add original repo as remote upstream 
@@ -64,7 +64,7 @@ $ git remote add upstream git@gitlab.fhnw.ch:ml/courses/gml/gml_minichallenges_f
 
 # now whenever you want to merge the changes from the remote upstream repo, ie
 # the one you forked from, you can do:
-$ git pull upstream master
+$ git pull upstream main
 ```
 
 .. and add some merge message.
